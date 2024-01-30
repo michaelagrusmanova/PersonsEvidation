@@ -1,0 +1,11 @@
+C:\Users\micha\source\repos\KolekceAListBoxy\KolekceAListBoxy\bin\Debug\KolekceAListBoxy.exe.config
+C:\Users\micha\source\repos\KolekceAListBoxy\KolekceAListBoxy\bin\Debug\KolekceAListBoxy.exe
+C:\Users\micha\source\repos\KolekceAListBoxy\KolekceAListBoxy\bin\Debug\KolekceAListBoxy.pdb
+C:\Users\micha\source\repos\KolekceAListBoxy\KolekceAListBoxy\obj\Debug\KolekceAListBoxy.csprojAssemblyReference.cache
+C:\Users\micha\source\repos\KolekceAListBoxy\KolekceAListBoxy\obj\Debug\KolekceAListBoxy.Form1.resources
+C:\Users\micha\source\repos\KolekceAListBoxy\KolekceAListBoxy\obj\Debug\KolekceAListBoxy.Properties.Resources.resources
+C:\Users\micha\source\repos\KolekceAListBoxy\KolekceAListBoxy\obj\Debug\KolekceAListBoxy.csproj.GenerateResource.cache
+C:\Users\micha\source\repos\KolekceAListBoxy\KolekceAListBoxy\obj\Debug\KolekceAListBoxy.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\KolekceAListBoxy\KolekceAListBoxy\obj\Debug\KolekceAListBoxy.exe
+C:\Users\micha\source\repos\KolekceAListBoxy\KolekceAListBoxy\obj\Debug\KolekceAListBoxy.pdb
+C:\Users\micha\source\repos\KolekceAListBoxy\KolekceAListBoxy\obj\Debug\KolekceAListBoxy.Form2.resources
